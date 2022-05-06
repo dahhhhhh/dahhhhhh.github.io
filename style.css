@@ -1,0 +1,63 @@
+body {
+background-image: url(img/фон.jpg);
+background-repeat: no-repeat; 
+background-size: 100%;
+}
+	h1 {
+	font-size: 7; 
+	color: #112D4E; 
+	font-family: roboto;
+	}
+h2 {
+font-size: 5; 
+color: #112D4E;
+font-family: roboto;
+}
+	h3 {
+	font-size: 5;
+	color: #112D4E; 
+	font-family: roboto;
+	}
+button.my-button {
+	border: none;
+    border-radius: 7px;
+    padding: 10px 25px;
+    background: #FFFFFF;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+button.my-button:hover { 
+    background: #00A3EB;
+  } 
+  button.buy {
+	border: none;
+    border-radius: 7px;
+    padding: 10px 25px;
+    background: #112D4E;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+button.buy:hover { 
+    background: #FF2400;
+  } 
+
+button.myy {
+	border: none;
+    border-radius: 3px;
+    padding: 10px 25px;
+    background: #F9F7F7;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #112D4E;
+	font-family: roboto;
+	font-size: 30px;
+}
+button.myy:hover { 
+    background: #F9F7F7;
+  } 
+  
